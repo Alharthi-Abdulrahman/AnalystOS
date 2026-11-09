@@ -11,7 +11,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
-![Status](https://img.shields.io/badge/Status-Actively%20Developed-brightgreen?style=flat)
+![Development Status](https://img.shields.io/badge/Status-Actively%20Developed-brightgreen?style=flat)
 
 **AnalystOS** is a locally hosted data analysis platform designed to support the data analysis workflow — from uploading and understanding datasets to cleaning, statistical exploration, visualization, and generating evidence-based insights.
 
@@ -82,8 +82,6 @@ AnalystOS is designed around local data processing and privacy:
 - AI explanations are designed to rely on computed evidence rather than invented metrics.
 
 ## Project Status
-
-![Development Status](https://img.shields.io/badge/Development-Active-brightgreen?style=flat)
 
 AnalystOS is actively in development.
 
