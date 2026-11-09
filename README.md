@@ -95,7 +95,8 @@ New capabilities, testing, and improvements are being introduced incrementally.
 
 Computer Engineering Graduate | Aspiring Data Analyst
 
-GitHub: [@Alharthi-Abdulrahman](https://github.com/Alharthi-Abdulrahman)
+- GitHub: [@Alharthi-Abdulrahman](https://github.com/Alharthi-Abdulrahman)
+- LinkedIn: [Abdulrahman Alharthi](https://www.linkedin.com/in/abdulrahman-alharthi-8355353aa/)
 
 ---
 
