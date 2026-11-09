@@ -2,7 +2,7 @@
 
 ### A Private, Local-First Data Analysis Platform
 
-**AnalystOS** is a desktop-friendly, locally hosted data analysis platform designed to support the complete data analysis workflow — from uploading and understanding datasets to cleaning, statistical exploration, visualization, and generating evidence-based insights.
+**AnalystOS** is a locally hosted data analysis platform designed to support the data analysis workflow — from uploading and understanding datasets to cleaning, statistical exploration, visualization, and generating evidence-based insights.
 
 The project focuses on data privacy, analytical accuracy, and reproducibility.
 
@@ -25,6 +25,24 @@ Its core principle is simple:
 - **Evidence-Based Insights:** Generate findings from calculated analytical results.
 - **Project History:** Track important project activities and changes.
 - **Bilingual Interface:** Arabic and English support with RTL/LTR layouts.
+
+## Application Screenshots
+
+### 1. Project Creation
+
+![AnalystOS Project Creation](01-project-creation.jpeg)
+
+### 2. Project Overview
+
+![AnalystOS Overview](02-overview.jpeg)
+
+### 3. Exploratory Data Analysis (EDA)
+
+![AnalystOS EDA](03-eda.jpeg)
+
+### 4. Evidence-Based Insights
+
+![AnalystOS Insights](04-insights.jpeg)
 
 ## Technology Stack
 
